@@ -1,0 +1,82 @@
+{
+    "businesses": [
+        {
+           "name": "Rev Coffee",
+           "address": "1680 Spring Rd SE, Ste B, Smyrna, GA",
+           "url": "https://www.revcoffee.com/",
+           "description": "Located in Smyrna just outside the perimeter, Rev is known for naming coffee blends after local landmarks like the Silver Comet Trail and taking great pride in being part of a loyal community of java addicts. Free WiFi. Ask for the password. Order online for pick-up" 
+        },
+        {
+            "name": "Bellwood Coffee",
+            "address": "2011 Bolton Rd NW, #109, Atlanta, GA 30318",
+            "url": "https://www.bellwoodcoffee.com/",
+            "description": "Upstart Westside coffee club and roaster Bellwood Coffee resides inside a small retail and office complex in the northwest Atlanta neighborhood of Bolton. Bellwood offers coffee, espresso, mochas, lattes, sells its locally roasted beans, and now includes local delivery and a subscription service." 
+         },
+         {
+            "name": "Portrait Coffee",
+            "address": "West End, Atlanta, GA 30310",
+            "url": "https://portrait.coffee/",
+            "description": "Atlanta-based roastery Portrait Coffee opens its first permanent location in the West End soon. The new coffee shop, which could open by the end of 2020, takes up residence at the Lottie Watkins Building on Ralph David Abernathy Boulevard. As a Black-owned coffee company, founders John Onwuchekwa, Marcus Hollinger, Khalid Smith, Shawndra Onwuchekwa, Aaron Fender, and Erin Fender want to bring better and more diverse representation to Atlanta’s specialty coffee scene. For now, people can find Portrait coffee at shops across Atlanta and can subscribe to its bean subscription service. Follow Portrait on Instagram for updates on the forthcoming shop." 
+         },
+         {
+            "name": "Brash Coffee",
+            "address": "1168 Howell Mill Rd NW, Atlanta, GA",
+            "url": "https://brashcoffee.com/",
+            "description": "Brash works directly with coffee farmers in El Salvador in order to source beans as fairly and ethically as possible. Located in a repurposed shipping container at Westside Provisions District, Brash offers coffee drinkers everything from pour-overs to drip coffee as well as selections from Emerald City Bagels in the morning. A second Brash is located inside the revamped Atlanta History Center in Buckhead across from Souper Jenny, and a third shop is located in Midtown on Peachtree Road. Masks required." 
+         },
+         {
+            "name": "Urban Grind",
+            "address": "962 Marietta St NW, Atlanta, GA 30318",
+            "url": "https://urbangrindatlanta.com/",
+            "description": "This longtime Marietta Street coffee shop opened in 2007 and has become a gathering spot for neighborhood residents and students of Georgia Tech and Georgia State. In addition to coffee and coffee drinks, Urban Grind also serves paninis, cakes, and pastries. Swing by for open mic nights featuring comedy, music, and poetry. The shop is currently limiting capacity inside. Masks required. Call to order pick-up. Order online for bean delivery." 
+         },
+         {
+            "name": "Drip Coffee Shop",
+            "address": "601 N Central Ave, Hapeville, GA 30354",
+            "url": "https://www.dripatlanta.com/",
+            "description": "This Hapeville-based coffee shop is a frequent stop for those looking to do some work, study, or grab a cup of coffee before or after a flight at nearby Hartsfield-Jackson airport. The space is bright, open, and offers plenty of seating as well as free WiFi. Pair that cup of coffee with a breakfast quiche or a BEC sandwich for breakfast. For lunch, try the open-faced Greek turkey sandwich with an iced chai. Drip also has a location in the Glenwood neighborhood and is grinding Atlanta-based Batdorf and Bronson beans. Call to order for pick-up. Dine-in service unavailable at this time. Masks required." 
+         },
+         {
+            "name": "Ebrik Coffee Room",
+            "address": "22 Park Pl SE, Atlanta, GA 30303,",
+            "url": "https://ebrikcoffeeroom.com/",
+            "description": "While the downtown Atlanta location is now closed, Ebrik is still slinging its coffee beans from a roastery in Castleberry Hill. But a return of the shop to downtown Atlanta isn’t out of the question. There’s also a location in Decatur, which is temporarily closed, and at the Michael C. Carlos Museum on the Emory University campus. Order beans online for delivery." 
+         },
+         {
+            "name": "East Pole Coffee Co.",
+            "address": "255 Ottley Dr NE Ste. 105, Atlanta, GA 30324",
+            "url": "https://eastpole.coffee/",
+            "description": "This Atlanta coffee shop quickly became a favorite among caffeine seekers since hitting the scene in 2017. The bright and airy shop in the Armour and Piedmont Heights neighborhoods offers plenty of seating, including a patio out front and floor-to-ceiling bleachers just beyond the doors in the lobby of the complex. East Pole also offers public tastings and cuppings. Free WiFi. Purchase beans and merch online." 
+         },
+         {
+            "name": "Grant Park Coffeehouse",
+            "address": "753 Cherokee Ave SE, Atlanta, GA 30315",
+            "url": "",
+            "description": "This Grant Park neighborhood staple continues to serve fair trade coffee and coffee drinks, breakfast, handmade sandwiches, fresh-baked goods, and ice cream across the street from Zoo Atlanta. Masks required." 
+         },
+         {
+            "name": "Condesa Coffee",
+            "address": "480 John Wesley Dobbs Ave NE, Atlanta, GA",
+            "url": "http://www.condesacoffee.com/",
+            "description": "Billed as an “industrial-modern espresso bar,” this Old Fourth Ward coffee shop also offer pastries from Proof Bakeshop in Inman Park and cocktails in the evenings. Free WiFi. Call for curbside pick-up." 
+         },
+         {
+            "name": "Chrome Yellow",
+            "address": "501 Edgewood Ave SE, Atlanta, GA",
+            "url": "https://www.chromeyellowtradingco.com/",
+            "description": "Part coffee shop, part craft-goods purveyor, Chrome Yellow has found a loyal following among local artists, writers, theater nerds, and tech geeks who swing by daily for Chrome’s Stumptown coffee blends and locally made pastries. Free WiFi. Order online for curbside pick-up. Masks required." 
+         },
+         {
+            "name": "Dancing Goats Ponce City Market",
+            "address": "650 North Avenue NE, Atlanta, GA 30308",
+            "url": "https://www.batdorfcoffee.com/",
+            "description": "Part of Atlanta-based Batdorf and Bronson coffee roasters, this congenial coffee bar was the first business to open at Ponce City Market — first as a pop-up in 2012, followed by its present location two years later. The shop includes a screened-in porch overlooking North Avenue with plenty of seating. Dancing Goats also has locations in Buckhead and Decatur. Free WiFi. Available for limited seating outdoors. Call to order for pick-up or order online." 
+         },
+         {
+            "name": "Xander Coffee",
+            "address": "3637 Peachtree Rd NE suite d, Atlanta, GA 30319",
+            "url": "https://xander-coffee.square.site/",
+            "description": "Xander opened last fall in Buckhead inside Kefi kids play space at the Triangle shopping center. The shop serves Counter Culture coffee. Currently open for limited dine-in, takeout, and curbside pick-up. Order online." 
+         }
+    ]
+}
