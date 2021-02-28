@@ -330,21 +330,61 @@
        
         <div id="map"></div> 
         <script> 
-          function initMap() { 
-            var test= {lat: 33.7490, lng: -84.3880};
-            var best= {lat: 33.952602, lng: -84.549934}; 
+          function initMap() {
+            var atlanta={lat: 33.74899, lng: -84.38798}; 
+            var test= {lat: 33.88214, lng: -84.50423};
+            var bellwood= {lat: 33.81028, lng: -84.4767};
+            var brash= {lat: 33.78554, lng: -84.41195};
+            var urban= {lat: 33.77768, lng: -84.40902};
+            var ebrik= {lat: 33.75042, lng: -84.39944};
+            var r1= {lat: 34.00551, lng: -84.57622};
+            var r2= {lat: 33.95407, lng: -84.55094};
+            var r3= {lat: 33.72306, lng: -84.50947};
+            var r4= {lat: 33.89858, lng: -84.44717};
+            var r5= {lat: 33.79501, lng: -84.42723};
+
             var map = new google.maps.Map(document.getElementById('map'), { 
               zoom: 13, 
-              center: test 
+              center: atlanta 
             }); 
             var marker = new google.maps.Marker({ 
-              position: test,
+              position: bellwood,
               map: map 
             }); 
             var marker = new google.maps.Marker({ 
-              position: best,
+              position: brash,
               map: map 
             });
+            var marker = new google.maps.Marker({ 
+              position: urban,
+              map: map 
+            });
+            var marker = new google.maps.Marker({ 
+              position: ebrik,
+              map: map 
+            });
+            var marker = new google.maps.Marker({ 
+              position: r1,
+              map: map 
+            });
+            var marker = new google.maps.Marker({ 
+              position: r2,
+              map: map 
+            });
+            var marker = new google.maps.Marker({ 
+              position: r3,
+              map: map 
+            });
+            var marker = new google.maps.Marker({ 
+              position: r4,
+              map: map 
+            });
+            var marker = new google.maps.Marker({ 
+              position: r5,
+              map: map 
+            });
+            
+
           } 
         </script> 
         <script async defer 
