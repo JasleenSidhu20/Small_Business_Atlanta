@@ -405,6 +405,42 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  
+  <!DOCTYPE html> 
+ 
+    <style> 
+      #map { 
+        height: 400px; 
+        width: 100%; 
+       } 
+    </style> 
+  </head> 
+  <body> 
+    <p>My Google Maps Demo</p> 
+    <div id="map"></div> 
+    <script> 
+      function initMap() { 
+        var test= {lat: 33.7490, lng: -84.3880};
+        var best= {lat: 33.952602, lng: -84.549934}; 
+        var map = new google.maps.Map(document.getElementById('map'), { 
+          zoom: 13, 
+          center: test 
+        }); 
+        var marker = new google.maps.Marker({ 
+          position: test,
+          map: map 
+        }); 
+        var marker = new google.maps.Marker({ 
+          position: best,
+          map: map 
+        });
+      } 
+    </script> 
+    <script async defer 
+    src= 
+"https://maps.googleapis.com/maps/api/js?key=AIzaSyBaRMp_0x_kZONVal4lylIsmlBinHJ6R90&callback=initMap"> 
+    </script> 
+ 
 
 </body>
 
