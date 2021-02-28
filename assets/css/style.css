@@ -66,6 +66,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding-top: 100px;
   text-align: middle;
+  margin-left: 100px;
 }
 /*--------------------------------------------------------------
 # Preloader
